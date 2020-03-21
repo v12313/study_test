@@ -142,6 +142,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="..\..\柠檬委屈\柠檬委屈\柠檬微趣.cpp" />
+    <ClCompile Include="test.cpp" />
+    <ClCompile Include="去重排序.cpp" />
+    <ClCompile Include="牛牛消消乐.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
